@@ -1,7 +1,7 @@
 1. Comp 484
-	Site navigation (holds links the other pages on the website)
 	1. Structuring Pages 
-		(below contains the contents of the entire page)
+		Site Navagation
+		(below contains the contents of the entire page that we wrap within the main & article element)
 		(1-4 are sections used to divide the information)
 		1. Conveying meaning through structure
 		2. Sectioning elements 
